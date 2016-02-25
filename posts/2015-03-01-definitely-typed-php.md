@@ -4,6 +4,8 @@ date:           2015-03-01 +0200
 categories:     php DefinitelyTypedPhp laravel
 ---
 
+# Definitely Typed PHP
+
 > ### Someone should implement .d.ts for PHP. Really.
 
 Everything started with this basic idea. An ability to describe PHP classes and functions with special support files 
