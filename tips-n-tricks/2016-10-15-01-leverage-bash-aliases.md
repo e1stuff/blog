@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leverage command line aliases
+title: "#1 Leverage command line aliases"
 published_at: 2016-10-15
 collection: tricks
 index: 1
