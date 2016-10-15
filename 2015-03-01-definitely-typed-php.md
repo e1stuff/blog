@@ -1,7 +1,12 @@
 ---
 title:          "Definitely Typed PHP"
 date:           2015-03-01 +0200
-categories:     [ php, DefinitelyTypedPhp, laravel ]
+tags:     	[ php, DefinitelyTypedPhp, laravel ]
+collection:     posts
+intro: |
+        Everything started with this basic idea. 
+        An ability to describe PHP classes and functions with special support files like TypeScript Definition files.
+        This article explores that idea to solve currently existing development problems. 
 ---
 
 # Definitely Typed PHP
