@@ -1,12 +1,7 @@
 ---
 layout: page
-title: Ivan Voskoboinyk
-image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
-comments: false
-modified: 2016-03-01
+title: About Ivan Voskoboinyk
+published_at: 2016-03-01
 ---
 
 # Ivan Voskoboinyk
