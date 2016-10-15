@@ -9,4 +9,4 @@
  
 ## 2015
 
-* March 1 — [Definitely Typed PHP](2015-03-01-definitely-typed-php.md)
+* March 1 — [Definitely Typed PHP](post/2015-03-01-definitely-typed-php.md)
