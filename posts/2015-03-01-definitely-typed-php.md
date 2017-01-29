@@ -40,7 +40,7 @@ It’s understandable, that the engine cannot analyze magic methods.
 So the typical Laravel controller looks like this:
 
 <figure>
-	<img src="images/typical-laravel-controller.png" alt="Typical Laravel controller opened with PhpStorm">
+	<img src="/images/2015-03-01-definitely-typed-php/typical-laravel-controller.png" alt="Typical Laravel controller opened with PhpStorm">
 	<figcaption>Typical Laravel controller opened with PhpStorm</figcaption>
 </figure>
 
