@@ -20,6 +20,8 @@ It's so much cooler than plain `var_dump()`.
 
 If you're using [Laravel](https://laravel.com/) you already have it. 
 
+For the rest of you, just run this Composer command:
+
 `composer require --dev larapack/dd:1.0`
 
 ## Caution
